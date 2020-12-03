@@ -1,5 +1,7 @@
 ### Glad to see you! I'm Poggy 👋
 
+![](https://komarev.com/ghpvc/?username=poggy-sl)
+
 ## I'm Front-end developer
 - 👨‍💻 I like to layout landings and coding
 - 👨‍🎓  I've a higher education in economics and finance
@@ -33,3 +35,6 @@
 <br />
 <br />
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=poggy-sl&show_icons=true&theme=radical)
+<br />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=poggy-sl&layout=compact)
